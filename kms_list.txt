@@ -1,13 +1,16 @@
-#OAT CMS KMS自動啟用伺服器列表
+#OAT CMS 及OAK  KMS自動啟用伺服器列表
 #1.2.698開始支援自動KMS伺服器
-#KMS伺服器亦可在MAC_LIST.TXT內以KMS=位址:PORT方式指定
-#本表如需異動請聯繫OAT CMS管理員 sammywang.tw@gmail.com
+#KMS伺服器亦可在OAT的MAC_LIST.TXT內以KMS=位址:PORT方式指定
+#本表如需異動或新增請聯繫OAT CMS管理員(台南市大橋國小王聖閔老師) sammywang.tw@gmail.com
+#本表同步更新於Github上，網址為
+#raw.githubusercontent.com/sammywang/OAK-Config/refs/heads/main/kms_list.txt
 
 
 #台南市
 120.115.0.0/17 kms.tn.edu.tw
 120.116.0.0/17 
 163.26.0.0/16  
+
 #120.115.0.0/19 kms.tn.edu.tw 32C
 #120.116.0.0/17 128C 
 #163.26.0.0/19 
@@ -26,7 +29,6 @@
 
 #新北市
 163.20.0.0/16 kms.ntpc.edu.tw 
-
 
 #彰化縣
 163.23.96.0/16 163.23.200.140 
