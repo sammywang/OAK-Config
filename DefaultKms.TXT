@@ -1,0 +1,10 @@
+{
+  "kmsListUrl": "https://raw.githubusercontent.com/sammywang/OAK-Config/refs/heads/main/kms_list.txt",
+  "kmsServers": [
+    "kms.tn.edu.tw"
+  ],
+  "defaultkms": "kms.tn.edu.tw",
+  "useDigital": false,
+  "autoKms": false,
+  "autoSetKms": true
+}
